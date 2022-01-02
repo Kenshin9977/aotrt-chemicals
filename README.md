@@ -1,4 +1,4 @@
-# aotrt-chemicals
+# AOTRT Chemicals solver
 
 ## ENGLISH
 Compute the formula chosen with the correct coefficient for the chemical step in Attack of the Radioactive Thing from Call of Duty: Infinite Warfare
